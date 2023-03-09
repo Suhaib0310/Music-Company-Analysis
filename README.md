@@ -1,1 +1,1 @@
-Analysis of Music Company Dataset. The purpose of this project is find out the useful trends and patterns between customers, artist, genre, sales etc.  
+Analysis of Music Company Dataset. The purpose of this project is find out the useful trends and patterns between customers, artist, genre, sales etc. I have used simple SQL query, JOINS, Common Table Expression, and Recursive to get the result. 
